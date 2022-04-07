@@ -1,0 +1,13 @@
+f =open("kushal.txt")
+# for line in f:
+#     print(line, end="")
+# # # content = f.read(1)
+# # # print(content)
+# # # content = f.read()
+# # # print(content)
+# # content = f.read()
+# # print("1", content)
+# # f.close()
+print(f.readline())
+print(f.readline())
+f.close()
